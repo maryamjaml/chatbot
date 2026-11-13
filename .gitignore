@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+outputs/
+data/processed/
+.venv/
+.env
+*.safetensors
+*.bin

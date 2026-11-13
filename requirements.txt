@@ -1,0 +1,8 @@
+torch>=2.2
+transformers>=4.46
+datasets>=2.20
+peft>=0.12
+trl>=0.20
+accelerate>=0.34
+bitsandbytes>=0.43; platform_system != "Darwin"
+gradio>=4.44,<6

@@ -1,0 +1,20 @@
+{"instruction": "Assalam o alaikum, aap kaun ho?", "response": "Walaikum assalam! Main ek AI chatbot hun. Aap mujh se sawal pooch sakte hain, main Roman Urdu, Urdu aur English mein jawab de sakta hun."}
+{"instruction": "Python kya hoti ha?", "response": "Python ek programming language ha jo seekhne mein asaan aur bohat powerful ha. Isse web development, data science, automation aur AI sab mein use kiya jata ha."}
+{"instruction": "Machine learning kya ha?", "response": "Machine learning mein computer ko rules likh kar dene ke bajaye data se seekhne diya jata ha. Model data mein patterns dhoondta ha aur phir naye data par prediction karta ha."}
+{"instruction": "Overfitting kya hoti ha?", "response": "Overfitting tab hoti ha jab model training data ko zaroorat se zyada ratta laga leta ha aur naye data par ghalat chalta ha. Zyada data, regularization aur early stopping se isse bacha ja sakta ha."}
+{"instruction": "List aur tuple mein kya farq ha?", "response": "List mutable hoti ha yani uske items badle ja sakte hain, jabke tuple immutable ha. Tuple thora tez hota ha aur fixed data ke liye behtar ha."}
+{"instruction": "Mujhe ek acha study routine batao.", "response": "Subah ka sab se mushkil subject pehle parho, 45 minute parhai ke baad 10 minute break lo, aur raat ko din ka revision zaroor karo. Neend poori lena bhi utna hi zaroori ha."}
+{"instruction": "Git kya ha?", "response": "Git ek version control system ha jo aapke code ki history save rakhta ha. Isse aap purane version par wapis ja sakte hain aur team ke sath mil kar kaam kar sakte hain."}
+{"instruction": "GitHub aur Git mein kya farq ha?", "response": "Git ek tool ha jo aapke computer par chalta ha, jabke GitHub ek website ha jahan aap apne Git repositories online save aur share karte hain."}
+{"instruction": "Shukriya!", "response": "Koi baat nahi! Aur koi madad chahiye ho to bata dena."}
+{"instruction": "What is a neural network?", "response": "A neural network is a model made of layers of connected units that learn to map inputs to outputs by adjusting weights during training."}
+{"instruction": "LoRA kya ha?", "response": "LoRA ek fine-tuning technique ha jis mein poora model train karne ke bajaye chhote chhote extra matrices train kiye jate hain. Is se memory kam lagti ha aur training tez hoti ha."}
+{"instruction": "Dataset kitna bara chahiye hota ha?", "response": "Chatbot ke style ko seekhne ke liye kam az kam kuch hazaar saaf examples acha rehte hain. Quality quantity se zyada ahem ha, galat ya ganda data model ko kharab kar deta ha."}
+{"instruction": "Ek chhoti si kahani sunao.", "response": "Ek dafa ek chhoti si chiriya thi jo roz sooraj nikalne se pehle gaana gati thi. Sab ne socha ye bekar ha, lekin ek din us ke gane se sara jangal jaag gaya aur sab ne uska shukriya ada kiya."}
+{"instruction": "Mujhe Python mein list ka sum kaise nikalna ha?", "response": "Seedha `sum()` use karo:\n\n```python\nnumbers = [1, 2, 3, 4]\nprint(sum(numbers))  # 10\n```"}
+{"instruction": "Aaj mausam kaisa ha?", "response": "Mere paas live mausam ka data nahi ha, is liye main sahi nahi bata sakta. Aap kisi weather app ya website par check kar lein."}
+{"instruction": "API kya hoti ha?", "response": "API ek tarika ha jis se do software aapas mein baat karte hain. Jaise restaurant mein waiter aapka order kitchen tak pohanchata ha aur khana wapis lata ha."}
+{"instruction": "Epoch kya hota ha?", "response": "Ek epoch ka matlab ha ke model ne poora training data ek dafa dekh liya. Aksar model ko kai epochs tak train kiya jata ha."}
+{"instruction": "Mujhe motivation chahiye.", "response": "Bara kaam ek dum nahi hota, roz ka chhota qadam hi manzil tak pohanchata ha. Aaj sirf ek chhota sa kaam shuru kar do, baaqi khud ba khud aasan ho jayega."}
+{"instruction": "Tum galti kar sakte ho?", "response": "Ji haan, main galti kar sakta hun. Important baton ko hamesha kisi aur bharosemand source se bhi check kar lena."}
+{"instruction": "Hugging Face kya ha?", "response": "Hugging Face ek platform ha jahan hazaron pretrained AI models, datasets aur tools free mein mil jate hain. Transformers library bhi isi ki ha."}
